@@ -14,7 +14,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "expo": "^44.0.0",
@@ -28,12 +30,14 @@
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "gh-pages": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/GeekyAnts/nativebase-templates/issues"
   },
-  "homepage": "https://github.com/GeekyAnts/nativebase-templates#readme",
-  "author": "Aditya Jamuar",
+  "homepage": "https://vivek2502.github.io/native/",
+  "author": "Vivek Kumar",
   "private": true
 }
+
