@@ -1,7 +1,11 @@
 # Svasth
 
 A Blockchain-based e-health records storage and sharing application SVASTH
-![image](https://user-images.githubusercontent.com/42957988/177020817-1fa1a707-c04c-46c8-a4d2-71183be4cde1.png)
+![image](https://user-images.githubusercontent.com/42957988/177022861-4babaafe-8b68-4b16-9c96-b1c82829dfb8.png)
+![image](https://user-images.githubusercontent.com/42957988/177022753-07e7eb68-82eb-4a5b-a50f-291730a5d866.png)
+![image](https://user-images.githubusercontent.com/42957988/177022838-d83f84ab-d721-4e90-b3ad-5236713ecfc2.png)
+
+
 
 Using this application Doctor and Patient track the treatment history of patient.
 Also, Its Empowers patients to assume ownership of their medical data
