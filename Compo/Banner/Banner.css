@@ -1,0 +1,15 @@
+.banner {
+    background-image: url("https://wallpapercave.com/wp/wp2789215.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(60%);
+    opacity: 0.99;
+    
+}
+.content{
+    padding-top: 23vh;
+    padding-left: 40%;
+    justify-content: center;
+    align-items: center;
+}

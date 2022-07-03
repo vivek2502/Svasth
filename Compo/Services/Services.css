@@ -1,0 +1,10 @@
+.Services{
+    padding: 0.5% ;
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(189, 255, 255);
+}
+.Services-item{
+    margin: 20px;
+}

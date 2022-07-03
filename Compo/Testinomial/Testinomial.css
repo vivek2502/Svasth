@@ -1,0 +1,11 @@
+.Testinomial{
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(215, 248, 248);
+    
+}
+.Testinomial-item{
+    margin:10px;
+}
