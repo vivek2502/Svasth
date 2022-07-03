@@ -1,4 +1,4 @@
-# Svasth
+# Svasth (स्वस्थ)
 
 #HogaHoga & Ho Gaya
 
