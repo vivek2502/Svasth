@@ -1,10 +1,6 @@
 # Svasth (स्वस्थ)
 
-#HogaHoga & Ho Gaya
 
-Hi, here we come up with interesting Nativebase solution. We tried to use Nativebase with Web3 technology.
-
-During development we were very excited about using this framework with completely new technolgy. Finally, we are able to develop and want to say thank you to Ineuron & GeekyAnts for providing both platform and technolgy.
 
 This is a Blockchain-based e-health records storage and sharing application SVASTH
 Using this application Doctor and Patient track the treatment history of patient.
